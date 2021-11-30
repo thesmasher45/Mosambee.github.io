@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=http://localhost/word3/&quot;images/border-gradient.png&quot">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "http://localhost/word3/&quot;images/border-gradient.png&quot";
+		</script>
+
+		<p>You are being redirected to <a href="http://localhost/word3/&quot;images/border-gradient.png&quot">http://localhost/word3/&quot;images/border-gradient.png&quot</a></p>
+	</body>
+</html>
